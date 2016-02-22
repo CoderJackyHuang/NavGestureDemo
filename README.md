@@ -1,0 +1,2 @@
+# NavGestureDemo
+验证如何同时支持leftBarButtonItem及右滑返回手势
